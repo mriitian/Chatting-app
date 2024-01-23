@@ -18,4 +18,4 @@ This project demonstrates a simple user authentication system using Express.js a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chatengine-authentication.git
+   git clone https://github.com/mriitian/Chatting-app.git
