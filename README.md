@@ -19,3 +19,11 @@ This project demonstrates a simple user authentication system using Express.js a
 
    ```bash
    git clone https://github.com/mriitian/Chatting-app.git
+2. Navigate to Backend and install the packages
+   ````bash
+   npm i
+   node index.js
+3. Open another terminal and navigate to Chat-app and install the packages
+   ````bash
+   npm i
+   npm run dev
